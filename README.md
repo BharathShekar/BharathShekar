@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BharathShekar
+- 👋 Hi, I’m @Bharath Shekar M C
 - 👀 I’m interested in Nature
 - 🌱 I’m currently learning AWS-Devops
 - 💞️ I’m looking to collaborate on devops enginering
