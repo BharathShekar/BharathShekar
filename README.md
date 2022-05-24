@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bharath Shekar M C
-- 👀 I’m interested in Nature and Envirnament.
+- 👀 I’m interested in Nature and Environment.
 - 🌱 I’m currently learning AWS-Devops
 - 💞️ I’m looking to collaborate on devops enginering
 - 📫 How to reach me bharath.shekar021@gmail.com
